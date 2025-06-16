@@ -65,7 +65,7 @@ pytest tests/test_all.py -v
 
 ## 📊 UML-діаграма
 
-![img.png](img.png)
+![UML.png](diagrams/UML.png)
 
 ---
 
